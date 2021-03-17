@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @installing-windows10
+- 👋 Hi, I’m installing windows10
 - 👀 I’m interested in ưindows and microsoft
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on hacking NẤ
